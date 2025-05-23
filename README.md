@@ -32,8 +32,5 @@ Run all the cells in `Evaluate_RAGs.ipynb` to see different RAG systems working 
 ```bash
 jupyter notebook Evaluate_RAGs.ipynb
 ```
-  
-## Running the Unit Test
-All the code runs under 5 minutes so there is no need for a unit test
 
 
