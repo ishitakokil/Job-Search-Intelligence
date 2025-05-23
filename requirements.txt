@@ -1,0 +1,9 @@
+streamlit
+langchain
+langgraph
+transformers
+torch
+peft
+pinecone-client
+langchain-openai
+langchain-huggingface
